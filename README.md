@@ -15,6 +15,7 @@ Technologies Used:
 2.	Android Studio: Integrated Development Environment (IDE) for Android app development, providing tools for code editing, debugging, and testing.
 3.	SQLite Database: Lightweight relational database management system used for storing user data and quiz questions locally on the device.
 4.	XML: Extensible Markup Language used for designing the user interface layout in Android applications.
+
 Key Features:
 1.	User Authentication: Allows users to input their username to personalize their gaming experience.
 2.	Random Question Generation: Generates random questions from a predefined list to keep the gameplay dynamic and engaging.
